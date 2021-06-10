@@ -44,3 +44,6 @@ Login UI :
 http://localhost:3000/login
 Dashboard UI :
 http://localhost:3000/dashboard
+
+
+-API Integration in register,login and dashboard.
